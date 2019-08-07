@@ -1,0 +1,8 @@
+<odoo>
+    <data>
+        <record model="res.groups" id="group_special_uom_writes">
+            <field name="name">Manage Unit Price</field>
+            <field name="category_id" ref="base.module_category_usability"/>
+        </record>
+    </data>
+</odoo>
